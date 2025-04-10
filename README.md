@@ -25,4 +25,9 @@ Antes de comenzar, asegúrate de tener acceso a la máquina virtual creada en la
 2. **Actualizar el sistema**  
    ```bash
    sudo apt update && sudo apt upgrade -y
+sudo snap install code --classic
+sudo apt install git -y
+sudo apt install apache2 -y
+sudo apt install php libapache2-mod-php -y
+sudo apt install build-essential -y
 
