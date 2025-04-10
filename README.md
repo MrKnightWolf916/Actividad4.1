@@ -31,3 +31,8 @@ sudo apt install apache2 -y
 sudo apt install php libapache2-mod-php -y
 sudo apt install build-essential -y
 
+# Proyectos de Programación - Actividad Práctica
+
+**Estudiante:** Erick Javier Cabrera Morales  
+**Correo:** jcabrera1806@gmail.com  
+**Carné:** 25006943  
